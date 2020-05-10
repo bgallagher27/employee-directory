@@ -12,7 +12,7 @@ class App extends React.Component {
 
   render() {
     return (
-    <div className="column jumbotron">
+    <div className="jumbotron">
       <Wrapper>
         <Title><a href="https://www.imdb.com/title/tt1375666/?ref_=nv_sr_srsg_0">"Inception"</a> Employee Directory</Title>
         {this.state.employees.map(employees => (
