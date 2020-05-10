@@ -2,6 +2,7 @@ import React from 'react';
 import './App.css';
 import Wrapper from "./components/Wrapper";
 import Title from "./components/Title";
+import Employee from "./components/Employee";
 
 function App() {
   return (
