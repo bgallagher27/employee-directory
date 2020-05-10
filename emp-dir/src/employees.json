@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Christopher Nolan",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjE3NDQyOTYyMV5BMl5BanBnXkFtZTcwODcyODU2Mw@@._V1_.jpg",
+        "role": "Director",
+        "salary": "$95,000.00"
+    },
+    {
+        "id": 2,
+        "name": "Leonardo DiCaprio",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjIzNjc5NTMwM15BMl5BanBnXkFtZTcwMjQyODU2Mw@@._V1_.jpg",
+        "role": "Actor",
+        "salary": "$200,000.00"
+    },
+    {
+        "id": 3,
+        "name": "Tom Hardy",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjQyMzk4OTAyNl5BMl5BanBnXkFtZTgwMTMzODc5MDI@._V1_SY1000_CR0,0,746,1000_AL_.jpg",
+        "role": "Actor",
+        "salary": "$175,000.00"
+    },
+    {
+        "id": 4,
+        "name": "Ellen Page",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTU3MzM3MDYzMV5BMl5BanBnXkFtZTcwNzk1Mzc3NA@@._V1_UX214_CR0,0,214,317_AL_.jpg",
+        "role": "Actress",
+        "salary": "$150,000.00"
+    },
+    {
+        "id": 5,
+        "name": "Cillian Murphy",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTUzMjg1NzIyOV5BMl5BanBnXkFtZTYwMzg2Mjgy._V1_UX214_CR0,0,214,317_AL_.jpg",
+        "role": "Actor",
+        "salary": "$125,000.00"
+    }
+]
