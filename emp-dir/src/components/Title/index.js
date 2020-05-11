@@ -21,8 +21,8 @@ class Title extends React.Component {
     this.setState({ employees });
     };
 
-    filterDirector = () => {
-        const employees = this.state.employees.filter(employees => employees.role === "Director");
+    filterActress = () => {
+        const employees = this.state.employees.filter(employees => employees.role === "Actress");
     this.setState({ employees });
     };
 
@@ -39,7 +39,7 @@ class Title extends React.Component {
             </div>
             <div className="row">
                 <div className="filter col">
-                    <Filter filterDirector={this.filterDirector} filterActor={this.filterActor} />
+                    <Filter filterDirector={this.filterDirector} filterActor={this.filterActor} filterActress={this.filterActress} />
                 </div>
             </div>
             {this.state.employees.map(employees => (
