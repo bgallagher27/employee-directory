@@ -2,4 +2,21 @@
     width: 100%;
     text-align: center;
     margin-bottom: 50px;
+    padding: 100px;
   }
+
+.filter {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.sort {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.button {
+  margin: 10px;
+}
